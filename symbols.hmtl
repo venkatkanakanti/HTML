@@ -1,0 +1,19 @@
+<html>
+<body>
+    <p>I will display &#8704;</p>
+    <p>I will display &#8706;</p>
+    <p>I will display &#8712;</p>
+    <p>
+        section sign(&):&sect;<br>
+        arrow(>):&rarr;<br>
+        vertical bar:&vert;<br>
+        tilde:&tilde;<br>
+        micro sign:&micro;<br>
+        copy right sign:&copy;<br>
+        cent sign:&cent;<br>
+        currenly sign:&curren;<br>
+        multiply sign:&times;<br>
+        division sign:&divide;<br>
+    </p>
+</body>
+</html>
